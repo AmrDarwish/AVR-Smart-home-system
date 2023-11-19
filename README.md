@@ -50,8 +50,5 @@ This project involves creating a smart home system using multiple microcontrolle
         - Correct previous password allows entry of a new password.
         - One incorrect attempt returns users to the main menu.
 
-4. **Add User:**
-    - Users can add a new user with a unique User ID and password.
-    - Confirmation of the password is required.
-        - Incorrect confirmation returns users to the main menu.
+
 
