@@ -9,7 +9,6 @@ This project involves creating a smart home system using multiple microcontrolle
 - LCD 16X2: Quantity > 1
 - KeyPad 4x4: Quantity > 1
 - LM35 temperature sensor: Quantity > 1
-- HC-05|06 Bluetooth module: Quantity > 1
 - LDR sensor: Quantity > 1
 - External EEPROM: Quantity > 1
 - Limited Servo Motor: Quantity > 1
@@ -25,7 +24,6 @@ This project involves creating a smart home system using multiple microcontrolle
     - **Modes Available:** Users can choose from three modes:
         1. Open Smart System
         2. Change Password
-        3. Add User
 
 2. **Open Smart System:**
     - Users authenticate by entering a User ID and password.
